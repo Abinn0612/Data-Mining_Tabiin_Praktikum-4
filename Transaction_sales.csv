@@ -1,0 +1,21 @@
+Transaction ID,Product 1,Product 2,Product 3,Product 4
+1,Milk,Bread,Butter,Cheese
+2,Diaper,Beer,Chips,
+3,Milk,Bread,Eggs,Cereal
+4,Bread,Butter,Cheese,
+5,Milk,Diaper,Bread,Beer
+6,Milk,Diaper,Bread,Chips
+7,Butter,Diaper,Beer,
+8,Milk,Bread,Butter,
+9,Bread,Eggs,,
+10,Milk,Diaper,Butter,Cheese
+11,Chips,Soda,,
+12,Milk,Cheese,Crackers,
+13,Eggs,Bread,Jam,
+14,Beer,Diaper,Chips,Soda
+15,Milk,Eggs,Cheese,Bread
+16,Bread,Jam,Butter,
+17,Diaper,Chips,Soda,
+18,Bread,Butter,Cheese,Eggs
+19,Cereal,Milk,Crackers,Jam
+20,Diaper,Eggs,Chips,Soda
